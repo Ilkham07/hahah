@@ -1,0 +1,3 @@
+Perimeter: 59.45655247480979
+Longest side: 8.48528137423857
+Average side length: 5.945655247480979
